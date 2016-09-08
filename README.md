@@ -1,5 +1,5 @@
 # hello-world
 
-Hi GUThu:
+Hi GitHub:
 
-  This is a new report, Nice to meet you.
+  Here is the introduce of merlinng, Nice to meet you.
